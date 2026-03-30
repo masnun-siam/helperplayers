@@ -1,0 +1,8 @@
+{
+  "name": "[COLOR red]Dhaka Flix[/COLOR] (Global Search)",
+  "plugin": "plugin.video.dhakaflix",
+  "priority": 2,
+  "is_resolvable": "false",
+  "play_episode": "plugin://plugin.video.dhakaflix/search/global?query={title_url}",
+  "play_movie": "plugin://plugin.video.dhakaflix/search/global?query={title_url}"
+}
